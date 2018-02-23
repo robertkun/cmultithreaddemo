@@ -1,2 +1,2 @@
 # cmultithreaddemo
-c multithread demo
+c multi thread demo
